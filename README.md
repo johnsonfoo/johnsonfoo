@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Johnson Foo,
 
-A Data Science student passionate about Big Data . I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Believer in 📜 Open Source, :cloud: Cloud Computing, :new: Innovation and Automation :robot: 
-
+A Data Science student passionate about Big Data . I like automating things, building pipelines, exploring scalability
+problems and improving efficiency and performance. I am a Strong Believer in 📜 Open Source, :cloud: Cloud Computing,
+:new: Innovation and Automation :robot:
 
 - 🔭 I’m currently working on:
 	- [ ] Data Structures and Algorithms
@@ -14,15 +15,15 @@ A Data Science student passionate about Big Data . I like automating things, bui
 ### My skills include
 
 <p align="center">
-	<img title="Java" alt="Java" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/java.svg" width="50" height="40" />
+	<img title="Java" alt="Java" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/java.svg" width="40" height="55" />
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/python.svg" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/git.svg" width="70" height="40" />
-	<img title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/github.svg" width="50" height="40" />
+	<img title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/github.svg" width="40" height="40" />
 	<img title="Linux" alt="Linux" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/linux-tux.svg" width="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/hadoop.svg" width="70" height="40" />
-	<img title="Presto" alt="Presto" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/presto.svg" width="80" height="40" />
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/aws.svg" width="60" height="40" />
+	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/hadoop.svg" width="60" height="40" />
+	<img title="Presto" alt="Presto" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/presto.svg" width="40" height="40" />
+	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/johnsonfoo/johnsonfoo/master/assets/aws.svg" width="50" height="40" />
 </p>
 
 <!--
