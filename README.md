@@ -2,7 +2,7 @@
 
 A Data Science student passionate about Big Data . I like automating things, building pipelines, exploring scalability
 problems and improving efficiency and performance. I am a Strong Believer in 📜 Open Source, :cloud: Cloud Computing,
-:new: Innovation and Automation :robot:
+:new: Innovation and :robot: Automation.
 
 - 🔭 I’m currently working on:
 	- [ ] Data Structures and Algorithms
@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
 <hr>
 <p align="center">
    <i>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do</i>
@@ -52,7 +51,7 @@ Here are some ideas to get you started:
    <br>
 <br>
 <a target="_blank" href="https://johnsonfoo.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-<a target="_blank" href="https://www.linkedin.com/in/johnsonfoo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/johnson-foo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:johnsonfoo98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>       
