@@ -5,7 +5,8 @@ problems and improving efficiency and performance. I am a Strong Believer in �
 :new: Innovation and :robot: Automation.
 
 - 🔭 I’m currently working on:
-	- [ ] Final Year Project
+    - [ ] Patching up my fundamentals in OS and Networking
+    - [ ] AWS Solutions Architect Certification
 
 - :bulb: I'm interested in: **Big Data, Cloud**
 - 💬 Talk to me about Football, Memes, anything that interests you.
